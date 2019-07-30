@@ -1,0 +1,30 @@
+***DEHENSV613:81 POD***
+The uptime is  0
+The startup date is  Thu Jan 01 01:00:00 CET 1970
+The disk is at normal level  55
+The memory is at normal level  39
+The thread is at normal level  1
+***DEHENSV613:81 POD***
+The uptime is  0
+The startup date is  Thu Jan 01 01:00:00 CET 1970
+The disk is at normal level  55
+The memory is at normal level  27
+The thread is at normal level  1
+***DEHENSV613:81 POD***
+The uptime is  0
+The startup date is  Thu Jan 01 01:00:00 CET 1970
+The disk is at normal level  55
+The memory is at normal level  34
+The thread is at normal level  1
+***DEHENSV613:81 POD***
+The uptime is  0
+The startup date is  Thu Jan 01 01:00:00 CET 1970
+The disk is at normal level  55
+The memory is at normal level  45
+The thread is at normal level  1
+***DEHENSV613:81 POD***
+The uptime is  0
+The startup date is  Thu Jan 01 01:00:00 CET 1970
+The disk is at normal level  55
+The memory is at normal level  46
+The thread is at normal level  1
